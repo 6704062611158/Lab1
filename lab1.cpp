@@ -4,10 +4,8 @@ int main(){
 	int n1;
 	int n2;
 	
-	printf("Enter number1: ");
+	printf("n1 n2");
 	scanf("%d", &n1);
-	
-	printf("Enter number2: ");
 	scanf("%d", &n2);
 	
     if (n1 > n2){
